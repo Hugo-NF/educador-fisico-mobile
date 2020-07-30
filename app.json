@@ -1,0 +1,12 @@
+{
+  "name": "educador-fisico-mobile",
+  "displayName": "educador-fisico-mobile",
+  "expo": {
+    "name": "educador-fisico-mobile",
+    "slug": "educador-fisico-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
